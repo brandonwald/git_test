@@ -1,0 +1,3 @@
+print hello wold
+goto 1
+run
